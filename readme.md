@@ -1,6 +1,6 @@
 # Web Visualization Dashboard (Latitude)
 
-Git hub page link: https://jua91.github.io/Web-Design-Challenge/
+Git hub page link: https://jua91.github.io/Web-Design-Challenge/index.html
 
 The webpage consists of:
 * A landing page
