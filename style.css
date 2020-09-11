@@ -98,7 +98,7 @@ img{
 }
 
 #figures img:hover {
-    border: 2px solid rgb(0, 128, 128);
+    border: 2px solid red;
 }
 
 /* data table from data.html */
